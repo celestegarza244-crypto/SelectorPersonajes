@@ -404,7 +404,3 @@ Otros miembros:
 - **Plataforma**: .NET 10 (`net10.0-windows`)
 - **Interfaz**: Windows Forms (`TableLayoutPanel`, `DataGridView`, `NumericUpDown`, `ComboBox`, `PictureBox`)
 - **Conceptos de programación**: listas doblemente enlazadas circulares, interfaces, patrón fábrica, delegados (`Comparison<T>`), iteradores (`yield return`), programación asíncrona (`async`/`await`, `Task.Run`) y medición de rendimiento con `Stopwatch`
-
-👤 Rosembert Jared Ortiz Reyes
-
-👤 Lia Kei Uchino Bonney
