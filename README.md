@@ -5,9 +5,13 @@ Aplicación de escritorio para **Windows** desarrollada en **C# con Windows Form
 ## Autores 👥
 
 👤 Alexa Abigail Fraire Sandoval
+
 👤 Elizabeth Anabely García Rivera
+
 👤 Celeste Anyelique Garza Mauricio
+
 👤 Rosembert Jared Ortiz Reyes
+
 👤 Lia Kei Uchino Bonney 
 
 ## 📖 Descripción general
